@@ -1,0 +1,14 @@
+﻿{
+    "name": "xray-Nonginx",
+    "description": "dev-xray",
+    "logo":"mypro",
+    "keywords": ["kooop"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/lling5/xyling",
+    "stack": "container"
+}
